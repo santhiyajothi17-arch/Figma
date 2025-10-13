@@ -30,6 +30,7 @@ Validate the HTML and CSS code.
 Publish the website in the given URL.
 
 ## DESIGN TOOL:
+```
 Figma
 import React from "react";
 import img11 from "./img-1-1.png";
@@ -843,7 +844,7 @@ module.exports = {
 }
 
 ## CODE:
-
+```
 
 ## OUTPUT:
 <img width="1111" height="573" alt="image" src="https://github.com/user-attachments/assets/142cf06a-80d7-47ea-bcd2-dfcbfadca4c4" />
